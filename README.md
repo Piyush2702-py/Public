@@ -1,5 +1,6 @@
 # Public
 This is my first Git Repository 
 <br>
-Author - Piyush Gupta 
+Author - Piyush Kumar Gupta 
+
 
